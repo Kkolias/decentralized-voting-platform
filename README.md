@@ -21,7 +21,7 @@ The project consists of two main components:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/decentralized-voting-platform.git
+   git clone https://github.com/Kkolias/decentralized-voting-platform.git
    cd decentralized-voting-platform
    ```
 
